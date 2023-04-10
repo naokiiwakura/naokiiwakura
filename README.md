@@ -4,13 +4,36 @@ Welcome to my GitHub profile! With over 10 years of experience in software devel
 
 ## How to reach me
 
-- [elton.naoki@gmail.com](elton.naoki@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/elton-naoki-iwakura-a48b6015/)
+<div>
+  <a href="https://instagram.com/naokiiwakura" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  <a href = "mailto:elton.naoki@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/elton-naoki-iwakura-a48b6015" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+</div>
 
 ## My GitHub stats
-
-[![Naoki's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=naokiiwakura&show_icons=true&theme=dracula)](https://github.com/naokiiwakura)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=naokiiwakura&show_icons=true&theme=dracula)](https://github.com/naokiiwakura/github-readme-stats)
+<div>
+  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naokiiwakura&show_icons=true&theme=dracula"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naokiiwakura&show_icons=true&theme=dracula&layout=compact"/>
+</div>
 
 Feel free to take a look at my repositories and contributions, and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thanks for visiting!
+
+
+<div style="display: inline_block"><br>
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" />        
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rails/rails-original-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" />
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-plain.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg">
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
+  <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
+          
+          
+  <img align="right" alt="Naoki-pic" height="150" style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1004359645778075651/w050na87_400x400.jpg">
+</div>
