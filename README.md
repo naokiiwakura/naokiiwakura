@@ -35,7 +35,4 @@ Feel free to take a look at my repositories and contributions, and don't hesitat
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/xamarin/xamarin-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" />
   <img align="center" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
-          
-          
-  <img align="right" alt="Naoki-pic" height="150" style="border-radius: 50%;" src="https://pbs.twimg.com/profile_images/1004359645778075651/w050na87_400x400.jpg">
 </div>
