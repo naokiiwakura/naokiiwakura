@@ -16,6 +16,8 @@ Welcome to my GitHub profile! With over 10 years of experience in software devel
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naokiiwakura&show_icons=true&theme=dracula&layout=compact"/>
 </div>
 
+![Snake animation](https://github.com/naokiiwakura/naokiiwakura/blob/output/github-contribution-grid-snake.svg)
+
 Feel free to take a look at my repositories and contributions, and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thanks for visiting!
 
 
