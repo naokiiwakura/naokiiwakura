@@ -9,14 +9,6 @@ Welcome to my GitHub profile! With over 10 years of experience in software devel
   <a href="https://www.linkedin.com/in/elton-naoki-iwakura-a48b6015" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
-## My GitHub stats
-<div>
-  <img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=naokiiwakura&show_icons=true&theme=dracula"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=naokiiwakura&show_icons=true&theme=dracula&layout=compact"/>
-</div>
-
-![Snake animation](https://github.com/naokiiwakura/naokiiwakura/blob/output/github-contribution-grid-snake.svg)
-
 Feel free to take a look at my repositories and contributions, and don't hesitate to reach out if you have any questions or would like to collaborate on a project. Thanks for visiting!
 
 
